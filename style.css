@@ -1,0 +1,26 @@
+ul li
+{
+    position:relative;
+   /* left:-500px;*/
+   /* float:right;*/
+    padding:0px;
+    font-size:20px;
+}
+.navbar-brand
+{
+    font-size:250%;
+}
+.thumbnail img
+{
+    width:350px;
+    height:250px;
+}
+.modal-body img
+{
+  width:350px;
+height:250px;  
+}
+.btn-success
+{
+    float:right;
+}
